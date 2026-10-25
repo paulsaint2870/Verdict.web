@@ -1,0 +1,2 @@
+# Verdict.web
+Betting web
